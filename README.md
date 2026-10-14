@@ -1,4 +1,7 @@
-# MP4 Fix – safe subtitles for 4K MP4/MKV movies (Enigma2)
+# MP4 Fix for Enigma2 – Vu+ Ultimo 4K / OpenBlackHole
+
+**Watch 4K MP4/MKV movies and switch subtitles without freezing your receiver.**
+See full movie info and turn any MP4 into an MKV with Slovak subtitles – all with your remote.
 
 **Designed by Mardo22** · YouTube: **SetTvBox4U** · Contact: settvbox4u@gmail.com
 
